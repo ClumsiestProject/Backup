@@ -1,3 +1,5 @@
+# 函数式编程的柯里化实现示例
+
 function add( a, b, c, d ) {
     return a + b + c + d;
 }
