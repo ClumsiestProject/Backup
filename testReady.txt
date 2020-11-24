@@ -1,1 +1,3 @@
 Test Ready --> BaaI Project
+
+Getting ready ...
