@@ -18,3 +18,4 @@ var add2 = curry( add, 4 );
 var res = add2( 1, 2, 3 );  
 
 console.log( "输出经柯里化函数变换后计算1+2+3+4的值 ： ", res );
+console.log( 'Program running over !' );
