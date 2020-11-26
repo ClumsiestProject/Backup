@@ -1,1 +1,4 @@
 开心学习Git原理
+
+Again to developing ... ...
+=== Ubuntu 18.04 ===
