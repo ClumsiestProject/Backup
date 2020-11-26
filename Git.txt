@@ -1,5 +1,6 @@
 开心学习Git原理
 
+<<<<<<< .merge_file_DATwwP
 <<<<<<< HEAD
 Again to developing ... ...
 === Ubuntu 18.04 ===
@@ -7,3 +8,12 @@ Again to developing ... ...
 Again to develop ...
 === Jeephy Ji ===
 >>>>>>> fcdd958845fe9526bdcb727ce662af4b55be470f
+=======
+<<<<<<< .merge_file_k8ey0b
+That's absolutely fantastic.
+=======
+运用Sourcetree和GitHub掌握Git的精髓！
+>>>>>>> .merge_file_c8d5en
+
+Hello, we are merged by master.
+>>>>>>> .merge_file_i89jrc
