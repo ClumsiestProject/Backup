@@ -7,3 +7,6 @@ That's absolutely fantastic.
 >>>>>>> .merge_file_c8d5en
 
 Hello, we are merged by master.
+
+=======
+今天又学习了rebase，但是没搞懂！
