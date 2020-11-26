@@ -1,3 +1,7 @@
 开心学习Git原理
 
+<<<<<<< .merge_file_k8ey0b
 That's absolutely fantastic.
+=======
+运用Sourcetree和GitHub掌握Git的精髓！
+>>>>>>> .merge_file_c8d5en
