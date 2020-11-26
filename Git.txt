@@ -1,4 +1,9 @@
 开心学习Git原理
 
+<<<<<<< HEAD
 Again to developing ... ...
 === Ubuntu 18.04 ===
+=======
+Again to develop ...
+=== Jeephy Ji ===
+>>>>>>> fcdd958845fe9526bdcb727ce662af4b55be470f
