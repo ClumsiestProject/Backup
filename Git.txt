@@ -5,5 +5,3 @@ That's absolutely fantastic.
 =======
 运用Sourcetree和GitHub掌握Git的精髓！
 >>>>>>> .merge_file_c8d5en
-
-Hello, we are merged by master.
